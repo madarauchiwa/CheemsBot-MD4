@@ -63,14 +63,14 @@ global.location = "cote divoire" //ur location
 //bot bomdy 
 global.owner = ['25587737416']
 global.ownertag = '25587737416' //ur tag number
-global.botname = 'mitsuri bot' //ur bot name
+global.botname = 'bot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "kibutsuji muzan " //ur sticker watermark packname
-global.author = "mitsuri kanroji" //ur sticker watermark author
+global.author = "MORT" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
